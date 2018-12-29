@@ -2,6 +2,7 @@ package def;
 
 public class fclass {
 
+<<<<<<< HEAD
 
 	public void eat()
 	{
@@ -12,4 +13,12 @@ public class fclass {
 		System.out.println("ex");
 	}
 
+=======
+	public void eat()
+	{
+		System.out.println("ex");
+	}
+	
+	
+>>>>>>> branch 'master' of https://github.com/aadipiya/Next.git
 }
