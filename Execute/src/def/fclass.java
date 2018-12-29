@@ -7,6 +7,7 @@ public class fclass {
 		System.out.println("piya");
 		System.out.println("piya");
 		System.out.println("piya");
+		System.out.println("piya");
 		
 		
 	}
